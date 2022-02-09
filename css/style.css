@@ -1,0 +1,38 @@
+body {
+  font: 20px, Verdana, sans-serif;
+}
+.navbar {
+  background-color: white;
+}
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.home {
+  background-color: black;
+  color: white;
+}
+.sobrenos {
+  background-color: white;
+  color: black;
+}
+.parceiros {
+  background-color: black;
+  color: white;
+}
+.serviços {
+  background-color: white;
+  color: black;
+}
+.text {
+  padding-top: 30px;
+}
+.title {
+  padding-bottom: 30px;
+}
+.bg-footer {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
